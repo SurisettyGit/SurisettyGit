@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a DevOps engineer with 4 years of experience working with AWS. I have a strong background in managing cloud infrastructure, automating deployments, and maintaining CI/CD pipelines. I'm currently looking for new job opportunities and am brushing up on my skills to stay up-to-date with the latest in cloud and DevOps.
+I'm a DevOps engineer with 4+ years of experience working with AWS. I have a strong background in managing cloud infrastructure, automating deployments, and maintaining CI/CD pipelines. I'm currently looking for new job opportunities and am brushing up on my skills to stay up-to-date with the latest in cloud and DevOps.
 
 # My Devops learnings and Practice:
 [https://github.com/SB-AWSDevops ](https://github.com/orgs/SB-AWSDevops/repositories)
